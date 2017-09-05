@@ -1,0 +1,14 @@
+?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.cowboys" name="Cowboys" version="1.6" provider-name="Cowboys">
+	<extension point="xbmc.addon.repository" name="Cowboys">
+		<info compressed="false">https://github.com/Makeiteasy4u/CowboysInstaller/blob/master/cowboys/plugins/addons.xml</info>
+		<checksum>https://github.com/Makeiteasy4u/CowboysInstaller/blob/master/cowboys/plugins/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/Makeiteasy4u/CowboysInstaller/tree/master/cowboys/plugins/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>one Cluck install Mmost populaire repositories</summary>
+		<description>easy way to get all populare repository</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+
